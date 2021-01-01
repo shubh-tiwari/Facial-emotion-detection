@@ -9,5 +9,4 @@ Steps involved in it:-
   - Use Model to predict emotions on real world data
 
 ## Prediction sample
-(P.S. Not the robust one as i ran it only for 30 epochs, but gives good results)
 ![Model Test Image](https://github.com/shubh-tiwari/cnn_emotions_detect/blob/main/out_test_image.jpg)
