@@ -4,9 +4,10 @@ Trained CNN model over FER2013 kaggle dataset to detect facial emotions.
 Steps involved in it:-
   - Explore the Dataset
   - Generate Training and Validation Batches
-  - Train and Evaluate Model a CNN Model
+  - Train a CNN model and evaluate it
   - Save Model as JSON String
   - Use Model to predict emotions on real world data
 
 ## Prediction sample
+(P.S. Not the robust one as i ran it only for 30 epochs, but gives good results)
 ![Model Test Image](https://github.com/shubh-tiwari/cnn_emotions_detect/blob/main/out_test_image.jpg)
